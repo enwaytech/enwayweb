@@ -1,0 +1,15 @@
+<svg version="1.1" id="logo-enway-small" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="51.291px" height="53.281px" viewBox="-229.854 283.141 51.291 53.281" enable-background="new -229.854 283.141 51.291 53.281" xml:space="preserve">
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="143.2119" y1="-217.8286" x2="224.1272" y2="-217.8286" gradientTransform="matrix(0.6332 0 0 -0.6332 -320.5367 171.853)">
+        <stop offset="0" style="stop-color:#00E1E1" />
+        <stop offset="1" style="stop-color:#3CF596" />
+    </linearGradient>
+    <linearGradient id="white" gradientUnits="userSpaceOnUse" x1="143.2119" y1="-217.8286" x2="224.1272" y2="-217.8286" gradientTransform="matrix(0.6332 0 0 -0.6332 -320.5367 171.853)">
+        <stop offset="0" style="stop-color:#FFFFFF" />
+        <stop offset="1" style="stop-color:#FFFFFF" />
+    </linearGradient>
+    <path fill="url(#white)" d="M-229.854,291.769v-8.205c0-0.241,0.182-0.423,0.423-0.423l0,0h50.807v9.051h-50.807
+                        C-229.672,292.191-229.854,292.012-229.854,291.769L-229.854,291.769L-229.854,291.769 M-214.708,336.422h36.083v-9.053h-36.083
+                        c-0.242,0-0.423,0.183-0.423,0.424l0,0l0,0v8.205C-215.13,336.242-214.951,336.422-214.708,336.422L-214.708,336.422
+                         M-205.055,313.854h26.491v-9.051h-26.491c-0.24,0-0.422,0.181-0.422,0.422l0,0v8.206
+                        C-205.537,313.675-205.294,313.854-205.055,313.854L-205.055,313.854L-205.055,313.854" />
+</svg>

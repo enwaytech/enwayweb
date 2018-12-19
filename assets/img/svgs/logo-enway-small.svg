@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="51.291px" height="53.281px" viewBox="0 0 51.291 53.281" enable-background="new 0 0 51.291 53.281" xml:space="preserve">
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="294.0986" y1="-528.7139" x2="375.0139" y2="-528.7139" gradientTransform="matrix(0.6332 0 0 0.6332 -186.2263 361.4282)">
+        <stop offset="0" style="stop-color:#00E1E1" />
+        <stop offset="1" style="stop-color:#3CF596" />
+    </linearGradient>
+    <linearGradient id="white" gradientUnits="userSpaceOnUse" x1="294.0986" y1="-528.7139" x2="375.0139" y2="-528.7139" gradientTransform="matrix(0.6332 0 0 0.6332 -186.2263 361.4282)">
+        <stop offset="0" style="stop-color:#FFFFFF" />
+        <stop offset="1" style="stop-color:#FFFFFF" />
+    </linearGradient>
+    <style type="text/css">
+    path {
+        fill: url(#white)
+    }
+    </style>
+    <path d="M0,8.628V0.423C0,0.181,0.182,0,0.423,0l0,0H51.23v9.051H0.423C0.182,9.051,0,8.871,0,8.628L0,8.628
+    L0,8.628 M15.146,53.281H51.23v-9.052H15.146c-0.242,0-0.423,0.182-0.423,0.423l0,0l0,0v8.206
+    C14.724,53.101,14.904,53.281,15.146,53.281L15.146,53.281 M24.8,30.714h26.491v-9.051H24.8c-0.24,0-0.422,0.181-0.422,0.422l0,0
+    v8.206C24.318,30.534,24.56,30.714,24.8,30.714L24.8,30.714L24.8,30.714" />
+</svg>

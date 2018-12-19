@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 75 144" style="enable-background:new 0 0 75 144;" xml:space="preserve">
+    <style type="text/css">
+    .st0 {
+        fill: #FFFFFF;
+    }
+
+    .st2 {
+        fill: none;
+        stroke: #000000;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+    }
+    </style>
+    <g class="st1">
+        <polyline class="st2" points="50,85.6 38,96 26,85.6" />
+        <line class="st2" x1="38" y1="96" x2="38" y2="48" />
+    </g>
+</svg>
